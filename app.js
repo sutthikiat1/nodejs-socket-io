@@ -3,7 +3,7 @@ const http = require('http')
 const socketIO = require('socket.io')
 
 // our localhost port
-const port = 3321
+const port = 7070
 
 const app = express()
 
